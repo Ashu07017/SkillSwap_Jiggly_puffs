@@ -1,95 +1,123 @@
-🤝 Skill Swap – Peer-to-Peer Learning & Collaboration Platform
-Skill Swap is an interactive web-based platform that empowers students to share, learn, and collaborate by exchanging skills. Designed especially for college communities, it connects individuals based on what they know and what they want to learn — promoting a culture of mutual growth, team-building, and hands-on learning.
+# 🤝 Skill Swap – Peer-to-Peer Learning & Collaboration Platform
 
-🌟 Features
-🔄 Skill Exchange
-Users list skills they offer and skills they seek.
+**Skill Swap** is an interactive web-based platform that empowers students to **share**, **learn**, and **collaborate** by exchanging skills. Designed especially for college communities, it connects individuals based on what they **know** and what they **want to learn**, promoting a culture of **mutual growth**, **team-building**, and **hands-on learning**.
 
-Integrated swap request system allows users to:
+---
 
-Send, accept, or reject skill swap offers.
+## 🌟 Features
 
-Cancel pending requests.
+### 🔄 Skill Exchange
 
-Track all active, pending, or rejected exchanges.
+- Users list **skills they offer** and **skills they seek**
+- Built-in **swap request system**:
+  - Send, accept, or reject skill swap offers
+  - Cancel pending requests
+  - Track active, pending, or rejected exchanges
 
-![App Screenshot](https://github.com/Ashu07017/SkillSwap_Jiggly_puffs/blob/6f4b5e7de2324fd78c672a91db05a503f882e773/screenshot/s3.jpg)
+![Skill Exchange](https://github.com/Ashu07017/SkillSwap_Jiggly_puffs/blob/6f4b5e7de2324fd78c672a91db05a503f882e773/screenshot/s3.jpg)
 
-🔍 Search & Match
-Smart search bar to find users by skill (e.g., “Python”, “Photoshop”).
+---
 
-Filter users based on availability (e.g., weekends, evenings) or visibility (public/private profiles).
+### 🔍 Search & Match
 
-👤 User Profiles
-Profiles display:
+- Smart search bar to find users by skill (e.g., “Python”, “Photoshop”)
+- Filter users based on:
+  - **Availability** (e.g., weekends, evenings)
+  - **Profile visibility** (public/private)
 
-Basic info: Name, location (optional), profile photo (optional).
+---
 
-Offered skills and desired skills.
+### 👤 User Profiles
 
-Availability for skill exchange.
+Each profile displays:
 
-💬 Collaboration Requests
-Users can create project-based posts looking for teammates with specific skills.
+- Name, location (optional), profile photo (optional)
+- Skills offered and desired
+- Availability for exchanges
 
-Ideal for:
+---
 
-Hackathons
+### 💬 Collaboration Requests
 
-College mini-projects
+Users can create **project-based posts** to find teammates with required skills.
 
-Startup ideas or workshops
+Great for:
 
-https://github.com/Ashu07017/SkillSwap_Jiggly_puffs/blob/6f4b5e7de2324fd78c672a91db05a503f882e773/screenshot/s2.jpg
+- Hackathons  
+- Mini-projects  
+- Startups and workshops  
 
-✨ User Interface
-Clean, responsive design.
+![Collaboration Page](https://github.com/Ashu07017/SkillSwap_Jiggly_puffs/blob/6f4b5e7de2324fd78c672a91db05a503f882e773/screenshot/s2.jpg)
 
-Card-style user profiles with hover interactions.
+---
 
-Smooth navigation across pages: Home, Skill Swap, Collaborate, and more.
+### ✨ User Interface
 
-https://github.com/Ashu07017/SkillSwap_Jiggly_puffs/blob/6f4b5e7de2324fd78c672a91db05a503f882e773/screenshot/s1.jpg
+- Clean, responsive UI
+- Card-style user profiles with hover effects
+- Smooth navigation across:
+  - Home
+  - Skill Swap
+  - Collaborate
+  - And more...
 
-🔐 Authentication
-Secure user registration and login via email/password.
+![Home Page](https://github.com/Ashu07017/SkillSwap_Jiggly_puffs/blob/6f4b5e7de2324fd78c672a91db05a503f882e773/screenshot/s1.jpg)
 
-Profiles can be set public or private based on user preference.
+---
 
-🧠 Future Scope
-📟 Code Board (Upcoming Feature)
-Inspired by CodeShare.io, this will allow:
+### 🔐 Authentication
 
-Real-time collaborative coding.
+- Secure user login via email/password
+- Profiles can be toggled public or private
 
-Remote pair programming and problem-solving.
+---
 
-Shared code spaces during live discussions or mentoring sessions.
+## 🧠 Future Scope
 
-⭐ Ratings & Feedback
-Users can leave feedback after a successful skill exchange.
+### 📟 Code Board *(Coming Soon)*
 
-Builds user credibility and trust within the community.
+Inspired by [CodeShare.io](https://codeshare.io/)
 
-📦 Tech Stack
-Frontend: HTML, CSS, JavaScript (React.js)
+- Real-time collaborative coding
+- Remote pair programming
+- Shared code sessions during mentoring or discussions
 
-Backend: Node.js + Express (or Firebase)
+### ⭐ Ratings & Feedback
 
-Database: MongoDB / Firestore
+- Users can leave feedback after successful exchanges
+- Builds trust and credibility in the community
 
-Auth: Firebase Authentication or JWT
+---
 
-👥 Team Members
+## 📦 Tech Stack
 
-Priyanshu Kashyap
+| Layer       | Technology                        |
+|-------------|------------------------------------|
+| Frontend    | HTML, CSS, JavaScript (React.js)   |
+| Backend     | Node.js + Express / Firebase       |
+| Database    | MongoDB / Firestore                |
+| Auth        | Firebase Authentication / JWT      |
 
-Siddharth Sonawane
+---
 
-Ashok Chaturvedi
+## 👥 Team Members
 
-🚀 Deployment Help Wanted
-We are actively seeking help to deploy the platform using services like Vercel, Render, or Railway.
-Any guidance, walkthroughs, or contributions from the community would be greatly appreciated.
+- **Priyanshu Kashyap**  
+- **Siddharth Sonawane**  
+- **Ashok Chaturvedi**
 
-🎥 Video-Link: https://drive.google.com/drive/folders/1krSvNSs0qf6LcprKgQH2tOh2YhXV49Mm?usp=sharing
+---
+
+## 🚀 Deployment Help Wanted
+
+We are looking to **deploy** this platform using **Vercel**, **Render**, or **Railway**.
+
+> 💬 *If you have experience or want to contribute, we’d love your help!*
+
+---
+
+## 🎥 Demo Video
+
+▶️ [Watch on Google Drive](https://drive.google.com/drive/folders/1krSvNSs0qf6LcprKgQH2tOh2YhXV49Mm?usp=sharing)
+
+---
