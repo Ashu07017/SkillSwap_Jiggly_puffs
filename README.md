@@ -13,7 +13,7 @@ Cancel pending requests.
 
 Track all active, pending, or rejected exchanges.
 
-https://github.com/Ashu07017/SkillSwap_Jiggly_puffs/blob/6f4b5e7de2324fd78c672a91db05a503f882e773/screenshot/s3.jpg
+![App Screenshot](https://github.com/Ashu07017/SkillSwap_Jiggly_puffs/blob/6f4b5e7de2324fd78c672a91db05a503f882e773/screenshot/s3.jpg)
 
 🔍 Search & Match
 Smart search bar to find users by skill (e.g., “Python”, “Photoshop”).
